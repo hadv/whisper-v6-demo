@@ -1,0 +1,11 @@
+# OS X
+*.DS_Store
+
+# Intellij IDEA
+*.iml
+
+# Node.Js
+node_modules
+
+# Compiled templates.
+src/tpl/templates.js
