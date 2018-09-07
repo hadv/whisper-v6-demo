@@ -4,7 +4,7 @@ const shh = web3.shh;
 
 
 
-shh.generateSymKeyFromPassword("testpassword").then((symKeyID) => {
+shh.generateSymKeyFromPassword("shhpost").then((symKeyID) => {
 
     console.log(symKeyID);
 
